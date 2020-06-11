@@ -5,10 +5,12 @@
 
 ## Descripción
 
-Adaptadores para mascaras de buceo para poder aplicar filtros de N95.
-
-## Materiales
+Adaptadores para mascaras de buceo para poder aplicar filtros de N95 y tener una mayor protección. Estos adaptadores están diseñados para ser generados por una impresora 3D estandar en cualquier parte del mundo donde se necesiten.
 
 ## Modo de uso
 
+Fotos
+
 ## Dibujo técnico
+
+IMGS
