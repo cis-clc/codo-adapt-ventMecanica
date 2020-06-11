@@ -13,14 +13,22 @@ Las dimensiones de los diferentes snorkels presentados fueron obtenidas mediante
 </p>
 
 
-## Modo de uso
+## Modo de fabricación y detalles técnicos
 
-Fotos
+Los adaptadores de filtros N95 se crean mediante la utilizacion de FDM 3D Printer (Fortus 250 MC). Las especificaciones tecnicas para la impresion son:
+
+- Material : ABS con la utilizacion de material de soporte (SR 30 support material)
+- Slice height : 0.33 [mm]
+- Part interior style : Solid
 
 ## Dimensiones
 
 ### Snorkel Subea
-![alt text](https://user-images.githubusercontent.com/28406528/84447860-34e6fd00-ac17-11ea-93d9-3e19a2101fba.png)
-
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/28406528/84447860-34e6fd00-ac17-11ea-93d9-3e19a2101fba.png">
+</p>
+- Cantidad de material : 20.87 [cm3]
+- Cantidad de soporte : 14.62 [cm3]
+- Tiempo de impresión : 3 horas 31 minutos
 
 ![alt text](https://user-images.githubusercontent.com/66433884/83801627-76a40080-a677-11ea-8661-da71d856db8a.png)
