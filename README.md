@@ -7,7 +7,7 @@
 
 Las mascarillas convencionales, a pesar de ser muy efectivas, no se adaptan perfectamente a la cara. Pudiendo dejar espacios por donde puede entrar algún virus.
 
-A diferencia de las máscaras de buceo, que no pueden permitir el ingreso sustancia al rostro. Debido a que provocaría ahogamiento, quedando pegadas de manera totalmente hermética al rostro.
+A diferencia de las máscaras de buceo, que no pueden permitir el ingreso sustancia al rostro. Debido a que provocaría ahogamiento, teniendo que quedar pegadas de manera totalmente hermética al rostro.
 
 Debido a lo anterior, se diseñaron adaptadores para máscaras de buceo con el fin de que puedan ser conectadas a filtros N95 y tener una mayor protección del personal de la salud. Estos adaptadores están diseñados para ser generados por una impresora 3D estándar en cualquier parte del mundo donde se necesiten.
 
