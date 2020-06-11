@@ -5,12 +5,9 @@
 
 ## Descripción
 
-Las mascarillas convencionales, a pesar de ser muy efectivas, no se adaptan perfectamente a la cara. Pudiendo dejar espacios por donde puede entrar algún virus.
+Diseño de adaptadores para máscaras de buceo con el fin de que puedan ser conectadas a filtros N95 y tener una mayor protección del personal de la salud. Estos adaptadores están diseñados para ser generados por una impresora 3D estándar en cualquier parte del mundo donde se necesiten.
 
-A diferencia de las máscaras de buceo, que no pueden permitir el ingreso sustancia al rostro. Debido a que provocaría ahogamiento, teniendo que quedar pegadas de manera totalmente hermética al rostro.
-
-Debido a lo anterior, se diseñaron adaptadores para máscaras de buceo con el fin de que puedan ser conectadas a filtros N95 y tener una mayor protección del personal de la salud. Estos adaptadores están diseñados para ser generados por una impresora 3D estándar en cualquier parte del mundo donde se necesiten.
-
+Las dimensiones de los diferentes snorkels presentados fueron obtenidas mediante la utilizacion de scanner de rayos X. Mediante la modelación y manipulación de la malla crea el adapatador para la entrada de filtros N95 ![alt text](https://user-images.githubusercontent.com/28406528/84446638-ef750080-ac13-11ea-83d6-88b0b00f9803.jpeg)
 
 ## Modo de uso
 
