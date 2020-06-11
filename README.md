@@ -1,5 +1,6 @@
 # Codos adaptadores para mascarillas de ventilación mecánica no invasiva
 
+![alt text](https://user-images.githubusercontent.com/28406528/84447738-dcaffb00-ac16-11ea-9b1c-9201218a57f6.jpeg)
 
 ## Descripción
 
