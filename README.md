@@ -20,7 +20,7 @@ Fotos
 ## Dimensiones
 
 ### Snorkel Subea
-![alt text](https://user-images.githubusercontent.com/66433884/83801627-76a40080-a677-11ea-8661-da71d856db8a.png)
+![alt text](https://user-images.githubusercontent.com/28406528/84447860-34e6fd00-ac17-11ea-93d9-3e19a2101fba.png)
 
 
 ![alt text](https://user-images.githubusercontent.com/66433884/83801627-76a40080-a677-11ea-8661-da71d856db8a.png)
