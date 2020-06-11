@@ -5,6 +5,8 @@
 
 ## Descripción
 
+Adaptadores para mascaras de buceo para poder aplicar filtros de N95.
+
 ## Materiales
 
 ## Modo de uso
