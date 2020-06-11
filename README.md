@@ -17,9 +17,9 @@ Las dimensiones de los diferentes snorkels presentados fueron obtenidas mediante
 
 Los adaptadores de filtros N95 se crean mediante la utilizacion de FDM 3D Printer (Fortus 250 MC). Las especificaciones tecnicas para la impresion son:
 
-- Material : ABS con la utilizacion de material de soporte (SR 30 support material)
-- Slice height : 0.33 [mm]
-- Part interior style : Solid
+| Material  | ABS con la utilizacion de material de soporte (SR 30 support material)  |
+| Slice height  | 0.33 [mm]  |
+| Part interior style  | Solid  |
 
 ## Dimensiones
 
