@@ -11,7 +11,7 @@ Las dimensiones de los diferentes snorkels presentados fueron obtenidas mediante
 ![alt text](https://user-images.githubusercontent.com/28406528/84446638-ef750080-ac13-11ea-83d6-88b0b00f9803.jpeg)
 
 <p align="center"> 
-<img src="![alt text](https://user-images.githubusercontent.com/28406528/84446638-ef750080-ac13-11ea-83d6-88b0b00f9803.jpeg)">
+<img src="https://user-images.githubusercontent.com/28406528/84446638-ef750080-ac13-11ea-83d6-88b0b00f9803.jpeg">
 </p>
 
 
