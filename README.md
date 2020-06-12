@@ -17,12 +17,6 @@ Ademas son de uso <b>EXCLUSIVO</b> para las mascaras de ventilación mecánica n
 
 Los codos fueron construidos mediante FDM 3D Printer (Fortus 250 MC). Las especificaciones tecnicas para la impresion son:
 
-
-| Material              | ABS con la utilizacion de material de soporte (SR 30 support material)  |
-| Slice height          | 0.33 [mm]                                                               |
-| Part interior style   | Solid                                                                   |
-
-
 <table style="width:100%">
   <tr>
     <th>Material</th>
@@ -30,14 +24,9 @@ Los codos fueron construidos mediante FDM 3D Printer (Fortus 250 MC). Las especi
     <th>Part interior style</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>ABS con la utilizacion de material de soporte (SR 30 support material)</td>
+    <td>0.33 [mm]</td>
+    <td>Solid</td>
   </tr>
 </table>
 
