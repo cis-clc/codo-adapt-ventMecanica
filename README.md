@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Diseño de codos para ventilación mecánica no invasiva. Estos codos están diseñados para ser generados por una impresora 3D estándar en cualquier parte del mundo donde se necesiten.
+Diseño de codos para ventilación mecánica no invasiva Full Face (Interfases sin puerto exhalatorio). Estos codos están diseñados para ser generados por una impresora 3D estándar en cualquier parte del mundo donde se necesiten. Ademas son <b>EXCLUSIVAMENTE</b> para 
 El tipo de codo va a depender del tipo de mascara de ventilación no invasiva que se este utilizando.
 
 <p align="center"> 
