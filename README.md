@@ -25,9 +25,9 @@ Los codos fueron construidos mediante FDM 3D Printer (Fortus 250 MC). Las especi
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Material</th>
+    <th>Slice height</th>
+    <th>Part interior style</th>
   </tr>
   <tr>
     <td>Jill</td>
