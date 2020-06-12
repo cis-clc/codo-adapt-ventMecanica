@@ -4,9 +4,8 @@
 
 ## Descripción
 
-Diseño de adaptadores para máscaras de buceo con el fin de que puedan ser conectadas a filtros N95 y tener una mayor protección del personal de la salud. Estos adaptadores están diseñados para ser generados por una impresora 3D estándar en cualquier parte del mundo donde se necesiten.
-
-Las dimensiones de los diferentes snorkels presentados fueron obtenidas mediante la utilizacion de scanner de rayos X. Mediante la modelación y manipulación de la malla crea el adapatador para la entrada de filtros N95.
+Diseño de codos para ventilación mecánica no invasiva. Estos codos están diseñados para ser generados por una impresora 3D estándar en cualquier parte del mundo donde se necesiten.
+El tipo de codo va a depender del tipo de mascara de ventilación no invasiva que se este utilizando.
 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/28406528/84446638-ef750080-ac13-11ea-83d6-88b0b00f9803.jpeg">
