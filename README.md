@@ -30,7 +30,7 @@ Los codos fueron construidos mediante FDM 3D Printer (Fortus 250 MC). Las especi
   </tr>
 </table>
 
-Si disponen de cualquier otro tipo de FDM 3D Printer, es posible utilizar el archivo codo_v4.STL e imprimir el modelo.
+Si disponen de cualquier otro tipo de FDM 3D Printer, es posible utilizar el archivo <b>codo_v4.STL</b> e imprimir el modelo.
 
 ## Dimensiones
 
