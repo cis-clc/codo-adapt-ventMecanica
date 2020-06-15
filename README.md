@@ -34,5 +34,15 @@ Si disponen de cualquier otro tipo de FDM 3D Printer, es posible utilizar el arc
 
 ## Dimensiones
 
-
+<table style="width:100%">
+  <tr>
+    <th>Diámetro externo conector mascara-codo</th>
+    <th>cDiámetro externo conector codo-tubo</th>
+  </tr>
+  <tr>
+    <td>ABS con la utilizacion de material de soporte (SR 30 support material)</td>
+    <td>0.33 [mm]</td>
+    <td>Solid</td>
+  </tr>
+</table>
 
