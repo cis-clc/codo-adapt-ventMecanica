@@ -32,7 +32,7 @@ Los codos fueron construidos mediante FDM 3D Printer (Fortus 250 MC). Las especi
   </tr>
 </table>
 
-Si disponen de cualquier otro tipo de FDM 3D Printer, es posible utilizar el archivo <b>codo_v4.STL</b> e imprimir el modelo.
+Si disponen de cualquier otro tipo de FDM 3D Printer, es posible utilizar el archivo <b>codo_v4.STL</b> e imprimir el modelo. 
 
 ## Dimensiones
 
@@ -47,3 +47,6 @@ Si disponen de cualquier otro tipo de FDM 3D Printer, es posible utilizar el arc
   </tr>
 </table>
 
+## Advertencia
+
+Los codos no pueden ser esterilizados mediante autoclave ya que la temperatura del equipo es superior al punto de fusion del ABS.
