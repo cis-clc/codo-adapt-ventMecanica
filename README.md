@@ -20,12 +20,14 @@ Los codos fueron construidos mediante FDM 3D Printer (Fortus 250 MC). Las especi
 <table style="width:100%">
   <tr>
     <th>Material</th>
-    <th>Slice height</th>
-    <th>Part interior style</th>
+    <td>ABS con la utilizacion de material de soporte (SR 30 support material)</td>
   </tr>
   <tr>
-    <td>ABS con la utilizacion de material de soporte (SR 30 support material)</td>
+    <th>Slice height</th>
     <td>0.33 [mm]</td>
+  </tr>
+  <tr>
+    <th>Part interior style</th>
     <td>Solid</td>
   </tr>
 </table>
